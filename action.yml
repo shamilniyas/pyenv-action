@@ -1,5 +1,5 @@
-name: 'Pyenv Build'
-author: 'Gabriel Falcão'
+name: 'Pyenv Build - Forked'
+author: 'Shamil Niyas'
 description: 'Enables use of pyenv within build'
 runs:
   using: 'node16'
