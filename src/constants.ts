@@ -1,1 +1,1 @@
-export const PYENV_VERSION: string = '2.6.3';
+export const PYENV_VERSION: string = '2.6.5';
